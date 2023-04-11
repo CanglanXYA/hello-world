@@ -9,7 +9,7 @@ test only!
 - Finally[^1]
 
 
-`Visual studio`
+`Visual studio Code`
 
 ---
 
